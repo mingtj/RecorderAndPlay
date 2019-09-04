@@ -21,7 +21,7 @@ import java.util.List;
 import com.bajintech.karaokrecorder.R;
 
 /**
- * Created by HXL on 16/3/14.
+ * Created by mtj
  */
 public class FileListAdapter extends BaseAdapter {
     Context context;
